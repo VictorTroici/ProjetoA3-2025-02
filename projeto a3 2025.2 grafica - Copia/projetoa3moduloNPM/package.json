@@ -1,15 +1,23 @@
 {
-  "name": "moduloexemplo01",
+  "name": "@pedroantonioc/moduloexemplo01",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "npm modulo projeto a3",
+  "keywords": [],
+  "homepage": "https://github.com/VictorTroici/ProjetoA3-2025-02/tree/c800f1013a0b06005afb237ddd81d830ae6e96a5#readme",
+  "bugs": {
+    "url": "https://github.com/VictorTroici/ProjetoA3-2025-02/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictorTroici/ProjetoA3-2025-02.git#c800f1013a0b06005afb237ddd81d830ae6e96a5"
+  },
+  "license": "ISC",
+  "author": "Pedro",
   "type": "module",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
   "dependencies": {
     "@svgdotjs/svg.js": "^3.2.5",
     "jsdom": "^27.1.0",
